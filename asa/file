@@ -1,0 +1,243 @@
+[0 ms] Philospher 1 has taken a fork.
+[0 ms] Philospher 3 has taken a fork.
+[0 ms] Philospher 3 has taken a fork.
+[0 ms] Philospher 3 is eating.
+[0 ms] Philospher 5 has taken a fork.
+[0 ms] Philospher 5 has taken a fork.
+[0 ms] Philospher 5 is eating.
+[200 ms] Philospher 3 has dropped a fork.
+[200 ms] Philospher 3 has dropped a fork.
+[200 ms] Philospher 3 is sleeping.
+[200 ms] Philospher 2 has taken a fork.
+[200 ms] Philospher 5 has dropped a fork.
+[200 ms] Philospher 1 has taken a fork.
+[200 ms] Philospher 1 is eating.
+[200 ms] Philospher 5 has dropped a fork.
+[200 ms] Philospher 5 is sleeping.
+[200 ms] Philospher 4 has taken a fork.
+[200 ms] Philospher 4 has taken a fork.
+[200 ms] Philospher 4 is eating.
+[400 ms] Philospher 3 is thinking.
+[400 ms] Philospher 5 is thinking.
+[400 ms] Philospher 4 has dropped a fork.
+[400 ms] Philospher 4 has dropped a fork.
+[400 ms] Philospher 4 is sleeping.
+[400 ms] Philospher 2 has taken a fork.
+[400 ms] Philospher 2 is eating.
+[400 ms] Philospher 1 has dropped a fork.
+[400 ms] Philospher 1 has dropped a fork.
+[400 ms] Philospher 1 is sleeping.
+[400 ms] Philospher 3 has taken a fork.
+[400 ms] Philospher 5 has taken a fork.
+[400 ms] Philospher 5 has taken a fork.
+[400 ms] Philospher 5 is eating.
+[600 ms] Philospher 4 is thinking.
+[600 ms] Philospher 2 has dropped a fork.
+[600 ms] Philospher 2 has dropped a fork.
+[600 ms] Philospher 2 is sleeping.
+[600 ms] Philospher 1 is thinking.
+[600 ms] Philospher 1 has taken a fork.
+[600 ms] Philospher 5 has dropped a fork.
+[600 ms] Philospher 1 has taken a fork.
+[600 ms] Philospher 1 is eating.
+[600 ms] Philospher 3 has taken a fork.
+[600 ms] Philospher 3 is eating.
+[600 ms] Philospher 4 has taken a fork.
+[600 ms] Philospher 5 has dropped a fork.
+[600 ms] Philospher 5 is sleeping.
+[800 ms] Philospher 2 is thinking.
+[800 ms] Philospher 1 has dropped a fork.
+[800 ms] Philospher 1 has dropped a fork.
+[800 ms] Philospher 1 is sleeping.
+[800 ms] Philospher 5 is thinking.
+[800 ms] Philospher 5 has taken a fork.
+[800 ms] Philospher 3 has dropped a fork.
+[800 ms] Philospher 3 has dropped a fork.
+[800 ms] Philospher 3 is sleeping.
+[800 ms] Philospher 2 has taken a fork.
+[800 ms] Philospher 2 has taken a fork.
+[800 ms] Philospher 2 is eating.
+[800 ms] Philospher 4 has taken a fork.
+[800 ms] Philospher 4 is eating.
+[1000 ms] Philospher 1 is thinking.
+[1000 ms] Philospher 3 is thinking.
+[1000 ms] Philospher 2 has dropped a fork.
+[1000 ms] Philospher 2 has dropped a fork.
+[1000 ms] Philospher 2 is sleeping.
+[1000 ms] Philospher 5 has taken a fork.
+[1000 ms] Philospher 5 is eating.
+[1000 ms] Philospher 1 has taken a fork.
+[1000 ms] Philospher 4 has dropped a fork.
+[1000 ms] Philospher 4 has dropped a fork.
+[1000 ms] Philospher 4 is sleeping.
+[1000 ms] Philospher 3 has taken a fork.
+[1000 ms] Philospher 3 has taken a fork.
+[1000 ms] Philospher 3 is eating.
+[1200 ms] Philospher 2 is thinking.
+[1200 ms] Philospher 5 has dropped a fork.
+[1200 ms] Philospher 5 has dropped a fork.
+[1200 ms] Philospher 5 is sleeping.
+[1200 ms] Philospher 3 has dropped a fork.
+[1200 ms] Philospher 3 has dropped a fork.
+[1200 ms] Philospher 3 is sleeping.
+[1200 ms] Philospher 1 has taken a fork.
+[1200 ms] Philospher 1 is eating.
+[1200 ms] Philospher 4 is thinking.
+[1200 ms] Philospher 4 has taken a fork.
+[1200 ms] Philospher 4 has taken a fork.
+[1200 ms] Philospher 4 is eating.
+[1200 ms] Philospher 2 has taken a fork.
+[1400 ms] Philospher 5 is thinking.
+[1400 ms] Philospher 3 is thinking.
+[1400 ms] Philospher 1 has dropped a fork.
+[1400 ms] Philospher 1 has dropped a fork.
+[1400 ms] Philospher 1 is sleeping.
+[1400 ms] Philospher 2 has taken a fork.
+[1400 ms] Philospher 2 is eating.
+[1400 ms] Philospher 4 has dropped a fork.
+[1400 ms] Philospher 5 has taken a fork.
+[1400 ms] Philospher 5 has taken a fork.
+[1400 ms] Philospher 5 is eating.
+[1400 ms] Philospher 4 has dropped a fork.
+[1400 ms] Philospher 3 has taken a fork.
+[1400 ms] Philospher 4 is sleeping.
+[1600 ms] Philospher 1 is thinking.
+[1600 ms] Philospher 2 has dropped a fork.
+[1600 ms] Philospher 2 has dropped a fork.
+[1600 ms] Philospher 2 is sleeping.
+[1600 ms] Philospher 5 has dropped a fork.
+[1600 ms] Philospher 5 has dropped a fork.
+[1600 ms] Philospher 5 is sleeping.
+[1600 ms] Philospher 3 has taken a fork.
+[1600 ms] Philospher 3 is eating.
+[1600 ms] Philospher 4 is thinking.
+[1600 ms] Philospher 4 has taken a fork.
+[1600 ms] Philospher 1 has taken a fork.
+[1600 ms] Philospher 1 has taken a fork.
+[1600 ms] Philospher 1 is eating.
+[1800 ms] Philospher 2 is thinking.
+[1800 ms] Philospher 5 is thinking.
+[1800 ms] Philospher 3 has dropped a fork.
+[1800 ms] Philospher 1 has dropped a fork.
+[1800 ms] Philospher 4 has taken a fork.
+[1800 ms] Philospher 4 is eating.
+[1800 ms] Philospher 1 has dropped a fork.
+[1800 ms] Philospher 1 is sleeping.
+[1800 ms] Philospher 2 has taken a fork.
+[1800 ms] Philospher 2 has taken a fork.
+[1800 ms] Philospher 2 is eating.
+[1800 ms] Philospher 3 has dropped a fork.
+[1800 ms] Philospher 3 is sleeping.
+[1800 ms] Philospher 5 has taken a fork.
+[2000 ms] Philospher 1 is thinking.
+[2000 ms] Philospher 2 has dropped a fork.
+[2000 ms] Philospher 3 is thinking.
+[2000 ms] Philospher 5 has taken a fork.
+[2000 ms] Philospher 1 has taken a fork.
+[2000 ms] Philospher 5 is eating.
+[2000 ms] Philospher 4 has dropped a fork.
+[2000 ms] Philospher 4 has dropped a fork.
+[2000 ms] Philospher 4 is sleeping.
+[2000 ms] Philospher 3 has taken a fork.
+[2000 ms] Philospher 3 has taken a fork.
+[2000 ms] Philospher 3 is eating.
+[2000 ms] Philospher 2 has dropped a fork.
+[2000 ms] Philospher 2 is sleeping.
+[2200 ms] Philospher 5 has dropped a fork.
+[2200 ms] Philospher 5 has dropped a fork.
+[2200 ms] Philospher 5 is sleeping.
+[2200 ms] Philospher 4 is thinking.
+[2200 ms] Philospher 1 has taken a fork.
+[2200 ms] Philospher 4 has taken a fork.
+[2200 ms] Philospher 2 is thinking.
+[2200 ms] Philospher 3 has dropped a fork.
+[2200 ms] Philospher 1 is eating.
+[2200 ms] Philospher 3 has dropped a fork.
+[2200 ms] Philospher 3 is sleeping.
+[2200 ms] Philospher 4 has taken a fork.
+[2200 ms] Philospher 4 is eating.
+[2200 ms] Philospher 2 has taken a fork.
+[2400 ms] Philospher 5 is thinking.
+[2400 ms] Philospher 3 is thinking.
+[2400 ms] Philospher 1 has dropped a fork.
+[2400 ms] Philospher 2 has taken a fork.
+[2400 ms] Philospher 2 is eating.
+[2400 ms] Philospher 1 has dropped a fork.
+[2400 ms] Philospher 1 is sleeping.
+[2400 ms] Philospher 5 has taken a fork.
+[2400 ms] Philospher 5 has taken a fork.
+[2400 ms] Philospher 5 is eating.
+[2400 ms] Philospher 4 has dropped a fork.
+[2400 ms] Philospher 4 has dropped a fork.
+[2400 ms] Philospher 4 is sleeping.
+[2400 ms] Philospher 3 has taken a fork.
+[2600 ms] Philospher 1 is thinking.
+[2600 ms] Philospher 5 has dropped a fork.
+[2600 ms] Philospher 5 has dropped a fork.
+[2600 ms] Philospher 5 is sleeping.
+[2600 ms] Philospher 4 is thinking.
+[2600 ms] Philospher 4 has taken a fork.
+[2600 ms] Philospher 3 has taken a fork.
+[2600 ms] Philospher 3 is eating.
+[2600 ms] Philospher 2 has dropped a fork.
+[2600 ms] Philospher 2 has dropped a fork.
+[2600 ms] Philospher 2 is sleeping.
+[2600 ms] Philospher 1 has taken a fork.
+[2600 ms] Philospher 1 has taken a fork.
+[2600 ms] Philospher 1 is eating.
+[2800 ms] Philospher 5 is thinking.
+[2800 ms] Philospher 3 has dropped a fork.
+[2800 ms] Philospher 3 has dropped a fork.
+[2800 ms] Philospher 3 is sleeping.
+[2800 ms] Philospher 2 is thinking.
+[2800 ms] Philospher 2 has taken a fork.
+[2800 ms] Philospher 1 has dropped a fork.
+[2800 ms] Philospher 1 has dropped a fork.
+[2800 ms] Philospher 1 is sleeping.
+[2800 ms] Philospher 4 has taken a fork.
+[2800 ms] Philospher 4 is eating.
+[2800 ms] Philospher 2 has taken a fork.
+[2800 ms] Philospher 2 is eating.
+[2800 ms] Philospher 5 has taken a fork.
+[3000 ms] Philospher 3 is thinking.
+[3000 ms] Philospher 1 is thinking.
+[3000 ms] Philospher 4 has dropped a fork.
+[3000 ms] Philospher 4 has dropped a fork.
+[3000 ms] Philospher 4 is sleeping.
+[3000 ms] Philospher 2 has dropped a fork.
+[3000 ms] Philospher 5 has taken a fork.
+[3000 ms] Philospher 5 is eating.
+[3000 ms] Philospher 2 has dropped a fork.
+[3000 ms] Philospher 2 is sleeping.
+[3000 ms] Philospher 1 has taken a fork.
+[3000 ms] Philospher 3 has taken a fork.
+[3000 ms] Philospher 3 has taken a fork.
+[3000 ms] Philospher 3 is eating.
+[3200 ms] Philospher 4 is thinking.
+[3200 ms] Philospher 2 is thinking.
+[3200 ms] Philospher 1 has taken a fork.
+[3200 ms] Philospher 1 is eating.
+[3200 ms] Philospher 5 has dropped a fork.
+[3200 ms] Philospher 5 has dropped a fork.
+[3200 ms] Philospher 5 is sleeping.
+[3200 ms] Philospher 3 has dropped a fork.
+[3200 ms] Philospher 3 has dropped a fork.
+[3200 ms] Philospher 3 is sleeping.
+[3200 ms] Philospher 4 has taken a fork.
+[3200 ms] Philospher 4 has taken a fork.
+[3200 ms] Philospher 4 is eating.
+[3200 ms] Philospher 2 has taken a fork.
+[3400 ms] Philospher 1 has dropped a fork.
+[3400 ms] Philospher 1 has dropped a fork.
+[3400 ms] Philospher 1 is sleeping.
+[3400 ms] Philospher 5 is thinking.
+[3400 ms] Philospher 5 has taken a fork.
+[3400 ms] Philospher 3 is thinking.
+[3400 ms] Philospher 4 has dropped a fork.
+[3400 ms] Philospher 4 has dropped a fork.
+[3400 ms] Philospher 4 is sleeping.
+[3400 ms] Philospher 2 has taken a fork.
+[3400 ms] Philospher 2 is eating.
+[3400 ms] Philospher 5 has taken a fork.
+[3400 ms] Philospher 5 is eating.
+[3400 ms] Philospher 3 has taken a fork.
